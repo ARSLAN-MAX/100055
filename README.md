@@ -1,6 +1,7 @@
 # CAPTCHA Solver Using Deep Learning
 
 **Student Names:**
+- Muhammad Arslan
 - Bhahzad Farid Khan
 - Muhammad Bilal
 
